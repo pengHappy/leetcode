@@ -3,9 +3,10 @@ import java.math.BigInteger;
 import java.util.*;
 
 /**
- * Created by zp007 on 9/16/16.
+ * Created by zp007 on 9/16/16. 
  */
 
+// add some lambda features in java8
 public class Solution {
     private interface MathOperation {
         int operation(String a, String b);
